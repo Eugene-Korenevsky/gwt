@@ -1,0 +1,2 @@
+serviceClass: com.mycompany.mywebapp.client.MaxPriceService
+path: 5FA204BA2B5C4AD5ED0D566C4AE76979.gwt.rpc

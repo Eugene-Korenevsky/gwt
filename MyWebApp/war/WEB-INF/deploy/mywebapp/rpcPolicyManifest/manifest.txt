@@ -1,0 +1,4 @@
+# Module mywebapp
+# RPC service class, partial path of RPC policy file
+com.mycompany.mywebapp.client.StockPriceService, 12FD48040487D948366FFA1BAB343401.gwt.rpc
+com.mycompany.mywebapp.client.MaxPriceService, 5FA204BA2B5C4AD5ED0D566C4AE76979.gwt.rpc

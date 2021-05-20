@@ -1,0 +1,2 @@
+serviceClass: com.mycompany.mywebapp.client.StockPriceService
+path: 12FD48040487D948366FFA1BAB343401.gwt.rpc
